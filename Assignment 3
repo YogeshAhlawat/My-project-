@@ -1,0 +1,316 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Assignment 3</title>
+  </head>
+  <body>
+    <!-- Bio Data -->
+
+    <center>
+      <h2>BIODATA</h2>
+    </center>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>:</td>
+        <td><b>AKHILESH YADAV</b></td>
+      </tr>
+      <tr>
+        <td>Father's Name</td>
+        <td>:</td>
+        <td>ShivPrasadYadav</td>
+      </tr>
+      <tr>
+        <td>Date of Birth</td>
+        <td>:</td>
+        <td>10-03-1994</td>
+      </tr>
+      <tr>
+        <td>Category</td>
+        <td>:</td>
+        <td>O.B.C.</td>
+      </tr>
+      <tr>
+        <td>Sex</td>
+        <td>:</td>
+        <td>Male</td>
+      </tr>
+      <tr>
+        <td>Language Known</td>
+        <td>:</td>
+        <td>Hindi & English</td>
+      </tr>
+      <tr>
+        <td>Nationality</td>
+        <td>:</td>
+        <td>Indian</td>
+      </tr>
+      <tr>
+        <td>Religion</td>
+        <td>:</td>
+        <td>Hindu</td>
+      </tr>
+      <tr>
+        <td>Educational Qualifications</td>
+        <td>:</td>
+        <td></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <table border="1" width="100%">
+      <tr>
+        <th>Exam Passed</th>
+        <th>Board/University</th>
+        <th>Passing Year</th>
+        <th>Division</th>
+      </tr>
+
+      <tr>
+        <td>High School</td>
+        <td>UPBoard,Allahabad</td>
+        <td>2008</td>
+        <td>Second</td>
+      </tr>
+      <tr>
+        <td>Intermediate</td>
+        <td>UPBoard,Allahabad</td>
+        <td>2010</td>
+        <td>First</td>
+      </tr>
+      <tr>
+        <td>B.A.</td>
+        <td>VBSPU,Jaunpur</td>
+        <td>2013</td>
+        <td>Second</td>
+      </tr>
+      <tr>
+        <td>M.A. (Hindi)</td>
+        <td>RMLAU, Faizabad</td>
+        <td>2018</td>
+        <td>Second</td>
+      </tr>
+      <tr>
+        <td>B.Ed</td>
+        <td>VBSPU, Jaunpur</td>
+        <td>2021</td>
+        <td>First</td>
+      </tr>
+      <tr>
+        <td>O’ Level</td>
+        <td>DOEACC/NIELIT</td>
+        <td>December,2016</td>
+        <td>B Grade</td>
+      </tr>
+      <tr>
+        <td>CCC</td>
+        <td>DOEACC</td>
+        <td>March,2015</td>
+        <td>B Grade</td>
+      </tr>
+      <tr>
+        <td>CCCP</td>
+        <td>NIELIT</td>
+        <td>Aug,2017</td>
+        <td>B Grade</td>
+      </tr>
+      <tr>
+        <td>ECC</td>
+        <td>NIELIT</td>
+        <td>Oct,2017</td>
+        <td>C Grade</td>
+      </tr>
+      <tr>
+        <td>PGDCA</td>
+        <td>IEC University</td>
+        <td>2018</td>
+        <td>First</td>
+      </tr>
+      <tr>
+        <td>ITI (COPA)</td>
+        <td>NCVT</td>
+        <td>July 2020</td>
+        <td>First</td>
+      </tr>
+      <tr>
+        <td>A’ Level</td>
+        <td>NIELIT</td>
+        <td>Appearing</td>
+        <td>Appearing</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <b>Skill Knowledge:</b>
+    <ul>
+      <li>Hindi Typing</li>
+      <li>English Typing</li>
+    </ul>
+
+    <table>
+      <tr>
+        <td>Marital Status</td>
+        <td>:</td>
+        <td>Married</td>
+      </tr>
+      <tr>
+        <td>Permanent Address</td>
+        <td>:</td>
+        <td>
+          Vill-Samaspur<br />Post-Bankat JagdishDist-Azamgarh(U.P.)<br />Pincode-276142
+        </td>
+      </tr>
+      <tr>
+        <td>Contact Phone</td>
+        <td>:</td>
+        <td>7007063243</td>
+      </tr>
+    </table>
+
+    <p>
+      <i
+        >I hereby declare that all the information are true and correct to the
+        best of my knowledge and belief.</i
+      >
+    </p>
+
+    <p>
+      Date: <br />
+      Place: Azamgarh (UP)
+    </p>
+
+    <p align="right">
+      <b>(AKHILESH YADAV)</b>
+    </p>
+
+    <!-- Time Table -->
+
+    <center>
+      <h2>TIME TABLE</h2>
+    </center>
+
+    <table border="1" width="100%">
+      <tr>
+        <th>Day/Period</th>
+        <th>I<br />9:30-10:20</th>
+        <th>II<br />10:20-11:10</th>
+        <th>III<br />11:10-12:00</th>
+        <th>12:00-12:40</th>
+        <th>IV<br />12:40-1:30</th>
+        <th>V<br />1:30-2:20</th>
+        <th>VI<br />2:20-3:10</th>
+        <th>VII<br />3:10-4:00</th>
+      </tr>
+
+      <tr>
+        <td>Monday</td>
+        <td>Eng</td>
+        <td>Mat</td>
+        <td>Che</td>
+        <td rowspan="6" align="center">L<br />U<br />N<br />C<br />H</td>
+        <td colspan="3" align="center">LAB</td>
+        <td>Phy</td>
+      </tr>
+
+      <tr>
+        <td>Tuesday</td>
+        <td></td>
+        <td>LAB</td>
+        <td></td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td>Mat</td>
+        <td>SPORTS</td>
+      </tr>
+
+      <tr>
+        <td>Wednesday</td>
+        <td>Mat</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td colspan="2" align="center">LIBRARY</td>
+        <td></td>
+      </tr>
+
+      <tr>
+        <td>Thursday</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td colspan="3" align="center">LAB</td>
+        <td>Mat</td>
+      </tr>
+
+      <tr>
+        <td>Friday</td>
+        <td colspan="3" align="center">LAB</td>
+        <td>Mat</td>
+        <td>Che</td>
+        <td>Eng</td>
+        <td>Phy</td>
+      </tr>
+
+      <tr>
+        <td>Saturday</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td>Mat</td>
+        <td colspan="3" align="center">SEMINAR</td>
+        <td>SPORTS</td>
+      </tr>
+    </table>
+
+    <!-- Stduent list -->
+    <br>
+    <center>
+        <h2>Student list</h2>
+    </center>
+    <table border="1" width="100%">
+      <tr>
+        <th rowspan="2">Heading</th>
+        <th colspan="2">Students</th>
+        <th colspan="2">Details</th>
+      </tr>
+
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Roll Number</th>
+      </tr>
+
+      <tr>
+        <td rowspan="4">Student List</td>
+        <td>1</td>
+        <td>Victor</td>
+        <td>Computer Science</td>
+        <td>12345</td>
+      </tr>
+
+      <tr>
+        <td>2</td>
+        <td>Williams</td>
+        <td>Electronics</td>
+        <td>23456</td>
+      </tr>
+
+      <tr>
+        <td>3</td>
+        <td>Harry</td>
+        <td>Electrical</td>
+        <td>34567</td>
+      </tr>
+
+      <tr>
+        <td>4</td>
+        <td>Rick</td>
+        <td>Civil</td>
+        <td>45678</td>
+      </tr>
+    </table>
+  </body>
+</html>
