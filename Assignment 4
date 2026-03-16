@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Assignement 4</title>
+  </head>
+  <body>
+    <!-- Contact Details -->
+    <center>
+      <h2>Contact Details</h2>
+    </center>
+
+    <form>
+      <fieldset>
+        <legend>Please enter your personal details:</legend>
+
+        First name*: <input type="text" name="fname" value="Fred" /><br /><br />
+        Last name*:
+        <input type="text" name="lname" value="Bloggs" /><br /><br />
+
+        Street address:
+        <input
+          type="text"
+          name="address"
+          value="Station Road"
+          size="30"
+        /><br /><br />
+
+        Town/city:
+        <input type="text" name="city" value="Dorkwell" /><br /><br />
+
+        Postcode/zip:
+        <input type="text" name="zip" value="DW1 5GA" /><br /><br />
+
+        Telephone:
+        <input type="text" name="tel" value="0123 456789" /><br /><br />
+
+        Mobile:
+        <input type="text" name="mobile" value="01567 899876" /><br /><br />
+
+        Email address*:
+        <input
+          type="email"
+          name="email"
+          value="fbloggs@coldmail.net"
+          size="30"
+        /><br /><br />
+
+        <p>Fields marked * are required.</p>
+
+        <input type="submit" value="Submit" />
+      </fieldset>
+    </form>
+
+    <!-- Admin Login Page -->
+     <br>
+    <h2>Admin Login Page</h2>
+
+    <form>
+      Username:
+      <input type="text" name="username" /><br /><br />
+
+      Password:
+      <input type="password" name="password" /><br /><br />
+
+      <input type="submit" value="Submit" />
+      <input type="reset" value="Reset" />
+    </form>
+
+    <!-- Doctor Appointment -->
+     <br>
+    <h2>Doctor Appointment Form</h2>
+
+    <form>
+      Appointment Date:
+      <input type="date" name="date" /><br /><br />
+
+      Appointment Time:
+      <input type="time" name="time" /><br /><br />
+
+      Name:
+      <input type="text" name="fname" placeholder="First" />
+      <input type="text" name="lname" placeholder="Last" /><br /><br />
+
+      Gender:
+      <input type="radio" name="gender" /> Male
+      <input type="radio" name="gender" /> Female<br /><br />
+
+      Phone:
+      <input type="text" name="phone" /><br /><br />
+
+      Address:
+      <input type="text" name="city" placeholder="city" />
+      <input type="text" name="state" placeholder="state" /><br /><br />
+
+      Your Query:<br />
+      <textarea rows="4" cols="30"></textarea><br /><br />
+
+      Appointment Type:<br />
+      Select which appointment type(s) you require<br />
+      <input type="checkbox" /> Cervix checkup<br />
+      <input type="checkbox" /> Heart checkup<br />
+      <input type="checkbox" /> Eye checkup<br />
+      <input type="checkbox" /> Hearing Test<br /><br />
+
+      <input type="submit" value="Send" />
+    </form>
+
+    <!-- Registration form -->
+    <br>
+
+    <h2>Registration Form</h2>
+
+    <form>
+      <table border="1" cellpadding="5">
+        <tr>
+          <td>Student Name</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td>Father's Name</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td>Mother's Name</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td>Date of Birth</td>
+          <td><input type="date" /></td>
+        </tr>
+
+        <tr>
+          <td>Gender</td>
+          <td>
+            <input type="radio" name="gender" /> Male
+            <input type="radio" name="gender" /> Female
+          </td>
+        </tr>
+
+        <tr>
+          <td>Email ID</td>
+          <td><input type="email" /></td>
+        </tr>
+
+        <tr>
+          <td>Mobile No.</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td>Address</td>
+          <td><textarea rows="3" cols="20"></textarea></td>
+        </tr>
+
+        <tr>
+          <td>State</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td>City</td>
+          <td><input type="text" /></td>
+        </tr>
+
+        <tr>
+          <td colspan="2" align="center">
+            <input type="submit" value="Submit" />
+          </td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
